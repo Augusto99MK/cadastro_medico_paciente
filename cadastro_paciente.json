@@ -1,0 +1,15 @@
+{
+  "nome": "José Maria",
+  "email": "josemaria@voll.com.br",
+  "telefone": "1111-2222",
+  "cpf": "000.111.222-33",
+  "endereco": {
+    "logradouro": "Rua Pantanal 22",
+    "bairro": "centro",
+    "cep": "12345-000",
+    "cidade": "Corumbá",
+    "uf": "MS",
+    "complemento": "",
+    "numero": 100
+  }
+}

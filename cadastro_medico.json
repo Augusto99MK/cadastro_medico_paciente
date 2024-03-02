@@ -1,0 +1,15 @@
+{
+  "nome": "José Maria",
+  "email": "josemaria@voll.com.br",
+  "crm": 123456,
+  "especialidade": "ORTOPEDIA",
+  "endereco": {
+    "logradouro": "Rua Pantanal 1",
+    "bairro": "centro",
+    "cep": "12345-000",
+    "cidade": "Corumbá",
+    "uf": "MS",
+    "complemento": "",
+    "numero": 100
+  }
+}
